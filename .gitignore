@@ -22,6 +22,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+resources/
 local.properties
 application.properties
 application.yml
