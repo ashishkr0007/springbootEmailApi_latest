@@ -1,3 +1,6 @@
+application.properties
+application.yml
+
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -24,8 +27,7 @@ tmp/
 *~.nib
 resources/
 local.properties
-application.properties
-application.yml
+
 .settings/
 .loadpath
 .recommenders
